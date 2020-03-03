@@ -1,0 +1,4 @@
+.idea/
+dogs_vs_cats/dataset/test/*.jpg
+dogs_vs_cats/dataset/train/*.jpg
+dogs_vs_cats/__pycache__/
